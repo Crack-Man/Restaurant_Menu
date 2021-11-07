@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
